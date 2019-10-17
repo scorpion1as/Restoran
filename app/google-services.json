@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "519115420266",
+    "firebase_url": "https://androideatit-ff1cf.firebaseio.com",
+    "project_id": "androideatit-ff1cf",
+    "storage_bucket": "androideatit-ff1cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519115420266:android:20e2c76a7f0ccd62415013",
+        "android_client_info": {
+          "package_name": "com.example.restoran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519115420266-8g3tdquakgfikjrf4s78hrga3ed6bikq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.restoran",
+            "certificate_hash": "304961b3e7e870bf2ba89aedd22121f7272ed46b"
+          }
+        },
+        {
+          "client_id": "519115420266-temtpb95kp84p526a76ofenousqb3e5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Ozch9seALLfwyxK2gQsHG2Kuef8w-Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519115420266-temtpb95kp84p526a76ofenousqb3e5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
